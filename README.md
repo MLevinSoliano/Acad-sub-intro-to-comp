@@ -6,8 +6,8 @@ Computer Repair Service Request Page
 ## Project Context
 
 **Project Title:** TechFix — Computer Repair Services
-**Submitted by:** Undergraduate BSIT — 1st Year, Section C
-**Submitted to:** *Proctor Name*
+**Submitted by:** MARK LEVIN S. SOLIANO (BSIT — 1C)
+**Submitted to:** *Mr. Buncagm Nel. (intro to comp. Proctor)*
 **Academic Level:** Bachelor of Science in Information Technology (BSIT), 1st Year
 **Year:** 2026
 
